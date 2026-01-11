@@ -41,6 +41,12 @@ nav a {
 }
 
 footer {
+  .hero img {
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+}
+
   background: #222;
   color: #ccc;
   text-align: center;
